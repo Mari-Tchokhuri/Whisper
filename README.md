@@ -63,7 +63,10 @@ Whisper/
 <img width="890" height="727" alt="reveal" src="https://github.com/user-attachments/assets/0a62c0af-fb21-4eb7-b9ac-bd5c163f602a" />
 
 
-
+---
+📦 Installation
+Clone the repository:
+[git clone https://github.com/Mari-Tchokhuri/Sakontrolo1.git](https://github.com/Mari-Tchokhuri/Whisper.git)
 
 
 
