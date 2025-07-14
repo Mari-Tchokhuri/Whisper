@@ -65,7 +65,7 @@ Whisper/
 ---
 📦 Installation
 Clone the repository:
-[git clone https://github.com/Mari-Tchokhuri/Sakontrolo1.git](https://github.com/Mari-Tchokhuri/Whisper.git)
+(https://github.com/Mari-Tchokhuri/Whisper.git)
 
 
 
