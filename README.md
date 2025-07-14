@@ -52,13 +52,13 @@ Whisper/
 ---
 
 ## Main Window
-![Main](Whisper/img/main.png)
+![Main](img/main.png)
 
 ## Hide Content
-![Hide](Whisper/img/hide.png)
+![Hide](img/hide.png)
 
 ## Reveal Content
-![Reveal](Whisper/img/reveal.png)
+![Reveal](img/reveal.png)
 
 
 
