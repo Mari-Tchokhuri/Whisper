@@ -52,15 +52,14 @@ Whisper/
 ---
 
 ## Main Window
-<img width="770" height="827" alt="main" src="https://github.com/user-attachments/assets/812b1a49-62e2-4bd9-95da-4df2a451a6dc" />
+![Main](assets/main.png)
 
 ## Hide Content
-
-<img width="888" height="732" alt="hide" src="https://github.com/user-attachments/assets/78fb2ac2-95d6-4d69-b197-712b619c15cc" />
+![Hide](assets/hide.png)
 
 ## Reveal Content
+![Reveal](assets/reveal.png)
 
-<img width="890" height="727" alt="reveal" src="https://github.com/user-attachments/assets/0a62c0af-fb21-4eb7-b9ac-bd5c163f602a" />
 
 
 ---
