@@ -1,7 +1,5 @@
 # Whisper
 
-Whisper is a powerful speech-to-text transcription project using OpenAI's Whisper model. It allows for audio input to be transcribed into accurate, readable text across multiple languages.
-
 ---
 
 ## 🚀 Features
